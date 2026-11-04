@@ -1,6 +1,6 @@
 {
-  "name": "Elevor360D Photo Filter Studio",
-  "short_name": "Photo Filter Studio",
+  "name": "Elevor360D Photo Frame Designer",
+  "short_name": "Photo Frame Designer",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
